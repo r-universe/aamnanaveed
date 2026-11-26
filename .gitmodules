@@ -5,3 +5,6 @@
 [submodule "biasProxyR"]
 	path = biasProxyR
 	url = https://github.com/aamnanaveed/biasproxyr
+[submodule "taxaudit"]
+	path = taxaudit
+	url = https://github.com/aamnanaveed/taxaudit
